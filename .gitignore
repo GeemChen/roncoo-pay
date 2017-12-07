@@ -8,4 +8,6 @@
 .project
 roncoo-pay.iml
 
+*/*.iml
+
 
